@@ -1,0 +1,10 @@
+* fiveam-matchers
+
+An extensible, composable matchers library for fiveam
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/tdrhq/fiveam-matchers.git   |
+| commit  | b7840f3  |
+| systems | fiveam-matchers |
+|---------+-------------------------------------------|
+
