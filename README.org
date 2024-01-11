@@ -4,6 +4,6 @@ An extensible, composable matchers library for fiveam
 
 |---------+--------------------------------------------------|
 | source  | git:https://github.com/tdrhq/fiveam-matchers.git |
-| commit  | b18d5df                                          |
+| commit  | afc356e                                          |
 | systems | fiveam-matchers                                  |
 |---------+--------------------------------------------------|
